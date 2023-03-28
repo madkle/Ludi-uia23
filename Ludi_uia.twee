@@ -12,5 +12,10 @@ Ludi@uia
 }
 
 
+:: \ world {"position":"1225,675","size":"100,100"}
+going anywhereeeee!
+
+
 :: Intro {"position":"1225,550","size":"100,100"}
 You are just a small town boy
+[[living in a lonely world | world]]
